@@ -1,2 +1,6 @@
-# Arrayfire-Corner-Detector
-Old Work Project for Detecting Corners Using the Hough TF
+# GPU Image Processing Utils
+
+### Archived Work Projects for Detecting Corners Using the Hough TF, Calculating Principal Curvature
+
+- dependencies:
+  * CUDA SDK, Arrayfire

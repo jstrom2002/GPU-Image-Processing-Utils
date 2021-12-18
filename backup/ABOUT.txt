@@ -1,0 +1,10 @@
+Files in this folder are backups of files used for calculating principal curvature from depth images using the Arrayfire library. NOTE: these files were heavily modified from the original source to remove unnecessary code for this implementation.
+
+Ref: ![https://github.com/aspek1/QuadricCurvature](https://github.com/aspek1/QuadricCurvature)
+
+Cite: 
+@inproceedings{Spek2012,
+author = {Spek, Andrew and Drummond, Tom},
+booktitle = {Australasian Conf. on Robitics and Automation (ACRA)},
+title = {A Fast Method For Computing Principal Curvatures From Range Images},
+year = {2015}

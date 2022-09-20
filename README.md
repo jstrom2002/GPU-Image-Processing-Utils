@@ -1,6 +1,6 @@
 # GPU Image Processing Utils
 
-### Archived Work Projects for Detecting Corners Using the Hough TF, Calculating Principal Curvature
+## _Archived Work Projects for Detecting Corners Using the Hough TF, Calculating Principal Curvature_
 
-- dependencies:
-  * CUDA SDK, Arrayfire
+### Dependencies:
+Arrayfire
